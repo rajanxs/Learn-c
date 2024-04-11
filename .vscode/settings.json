@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "POINTER.C": "cpp",
+        "HCF.C": "cpp",
+        "BASIC2DARRAY.C": "cpp",
+        "ARRAYINPUT.C": "cpp"
+    }
+}
